@@ -23,7 +23,10 @@ Key Insights
 - West region contributes the highest revenue  
 - A few top products drive a significant portion of total sales
 
-  Files included
+Files included
   - 'Ecommerce_sales_dashboard.pbix' - Power BI dashboard for Visualization
   - 'queries.sql'- Sql queries used for data analysis
   - 'Dashboard.png'- Dashboard screen shot
+
+
+By Anush Shetty
